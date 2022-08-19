@@ -1,4 +1,4 @@
-<h3 align="center">A enthusiastic frontend engineer from Nigeria</h3>
+<h3 align="center">An enthusiastic frontend engineer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Amir9eng&label=Profile%20views&color=0e75b6&style=flat" alt="Amir9eng" /> </p>
 
