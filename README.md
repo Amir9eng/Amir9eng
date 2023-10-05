@@ -17,7 +17,8 @@
 
 - 📫 How to reach me **amirmukhtarme@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1a67xFTk8aU6hNO8-D-6oIhbFupz-LYiOtJ0c7XdEOCo/edit?usp=sharing](https://docs.google.com/document/d/1a67xFTk8aU6hNO8-D-6oIhbFupz-LYiOtJ0c7XdEOCo/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VidYJ2xttVW4BfIZLfpCIMGw2sciSm5k/view?usp=sharing)
+  
 
 - ⚡ Fun fact **I love to read, learn new things and i like space and technology. I think i am also funny.**
 
