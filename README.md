@@ -64,10 +64,10 @@ _React, Vue.js, TypeScript, PostgreSQL_
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amir9eng&show_icons=true&theme=dark" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir9eng&layout=compact&theme=dark" height="180"/>
-</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amir9eng&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir9eng&layout=compact&theme=dark)
 
 ---
 
