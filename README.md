@@ -64,9 +64,11 @@ _React, Vue.js, TypeScript, PostgreSQL_
 
 ## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Amir9eng&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
 
-![GitHub Stats](https://readme-stats.cotes.dev/api?username=Amir9eng&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amir9eng&layout=compact&theme=dark&hide_border=true)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Amir9eng&theme=dark&hide_border=true)
 ---
 
 ## 📫 Let's Connect
