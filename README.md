@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Mukhtar 👋
 
-**Full-Stack Developer** specializing in building high-quality web and mobile applications with React, Next.js, TypeScript, and Node.js.
+**Full-Stack Developer** specializing in building high-quality web and mobile applications with React, Next.js, TypeScript, Laravel and Node.js.
 
 🚀 **4+ years** building production applications | 🌍 **Based in Abuja, Nigeria** | 💼 **Open to remote opportunities**
 
