@@ -65,9 +65,7 @@ _React, Vue.js, TypeScript, PostgreSQL_
 ## 📊 GitHub Stats
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amir9eng&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir9eng&layout=compact&theme=dark)
+![GitHub Stats](https://readme-stats.cotes.dev/api?username=Amir9eng&show_icons=true&theme=dark)
 
 ---
 
