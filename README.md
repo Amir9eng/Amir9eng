@@ -18,9 +18,6 @@ I build **scalable, user-centric applications** from concept to deployment, with
 
 ## 💼 Recent Work
 
-**🎮 [PathFive](https://pathfive.io)** — Gamified leadership platform with AI-powered personalization  
-_React, TypeScript, OpenAI API, Tailwind CSS_
-
 **📱 Fintech Mobile Apps** — Built and shipped multiple production fintech applications  
 _React Native, Node.js, MongoDB, Payment APIs_
 
